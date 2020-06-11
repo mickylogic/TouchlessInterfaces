@@ -27,4 +27,5 @@ def readPin(pin):
       }
 
 
+
    return render_template('pin.html', **templateData)
